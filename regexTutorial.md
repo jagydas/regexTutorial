@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regular Expressions Tutorial
 
-Introductory paragraph (replace this with your text)
+The purpose of this gist is to walk through what a regular expression is and how to use them. Regular Expressions (Regex) can be used when one is trying to match a certain character combination within a string. T
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In the following example, the user is expected to enter a phone number. When the user presses the "Check" button, the script checks the validity of the number. If the number is valid (matches the character sequence specified by the regular expression), the script shows a message thanking the user and confirming the number. If the number is invalid, the script informs the user that the phone number is not valid.
 
 ## Table of Contents
 
